@@ -1,4 +1,4 @@
-#  Identify relevant galaxy properties
+#  Verify that existing input catalogs are sufficient
 
 Summary -- There exists a comprehensive model of the universe in the current CatSim database. There are, of
 course, some limitations (e.g. simple galaxy profiles). This task will document that the Twinkles 1.0
